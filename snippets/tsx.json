@@ -1,0 +1,25 @@
+  {
+  "React Arrow Function Component": {
+    "prefix": "rafce",
+    "body": [
+      "import React from 'react';",
+      "",
+      "const ${1:ComponentName} = () => {",
+      "  return (",
+      "    <div>${2:Component content}</div>",
+      "  );",
+      "};",
+      "",
+      "export default ${1:ComponentName};"
+    ],
+    "description": "Creates a React Arrow Function Component with ES7 module system"
+  },
+  "Console Log": {
+    "prefix": "clg",
+    "body": [
+      "console.log($1);"
+    ],
+    "description": "Displays a message in the console"
+  }
+}
+

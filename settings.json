@@ -16,5 +16,13 @@
     "mode": "system",
     "light": "Ayu Dark",
     "dark": "One Dark"
+  },
+  "use_autoclose": true,
+  "soft_wrap": "editor_width",
+  "search": {
+    "whole_word": false,
+    "case_sensitive": false,
+    "include_ignored": false,
+    "regex": false
   }
 }
